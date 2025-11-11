@@ -2,9 +2,9 @@
 A python app to enhance an image in the browser
 
 Copy and paste all of the following into the terminal: <br/>
-python -m venv venv <br/>
-source venv/bin/activate <br/>
-pip install flask pillow <br/>
+python -m venv venv 
+source venv/bin/activate 
+pip install flask pillow
 python app.py
 
 
