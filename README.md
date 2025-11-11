@@ -1,5 +1,5 @@
 # image-enhancer
-A python app to enhance an image
+A python app to enhance an image in the browser
 
 Copy and paste all of the following into the terminal:
 python -m venv venv
